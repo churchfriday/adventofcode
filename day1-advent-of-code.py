@@ -5,6 +5,7 @@ mass = 0
 sumofallmodules = 0
 currentmodule = 0
 sum_of_fuel_current = 0
+#komentar ahahha
 
 filepath = 'numbers.txt'
 try:  
