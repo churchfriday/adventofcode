@@ -25,6 +25,7 @@ try:
             if((int(fuel_current/3)-2<0)and(fuel_current > 0)):
                 sum_of_fuel_current+=fuel_current
                 continue
+            #komentar top kek
 except:
     print("overall fuel {}".format(sum_of_fuel_current))
 finally:
