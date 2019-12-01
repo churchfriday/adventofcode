@@ -7,6 +7,7 @@ currentmodule = 0
 sum_of_fuel_current = 0
 #komentar ahahha
 #novi komentar hahahahahah
+nova_varijabla = 1
 
 filepath = 'numbers.txt'
 try:  
