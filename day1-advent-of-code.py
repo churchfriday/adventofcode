@@ -1,13 +1,10 @@
 fuel = 0
 flag = "true"
-#input_mass = int(input())
 mass = 0
 sumofallmodules = 0
 currentmodule = 0
 sum_of_fuel_current = 0
-#komentar ahahha
-#novi komentar hahahahahah
-nova_varijabla = 1
+nova_varijabla = 2
 
 filepath = 'numbers.txt'
 try:  
